@@ -1,6 +1,9 @@
 # 💫 About Me:
 Hello! I'm Karunakaran, a dedicated and innovative Solution Architect with a passion for driving technology solutions that align with business goals. With a strong background in software development, cloud computing, and IT infrastructure, I bring over 10 years of experience to the table.
 
+---
+[![](https://visitcount.itsvg.in/api?id=naankaran&icon=2&color=0)](https://visitcount.itsvg.in)
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karunakaran-solution-architect/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://dev.to/karunakaran/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/12019191/karunakaran) 
@@ -16,6 +19,6 @@ Hello! I'm Karunakaran, a dedicated and innovative Solution Architect with a pas
 ![](https://github-contributor-stats.vercel.app/api?username=naankaran&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=naankaran&icon=2&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
